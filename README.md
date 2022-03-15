@@ -6,4 +6,4 @@
 
 Stel je vaardigheden op de proef en los vier Wordles tegelijk op! Je hebt 9 keer raden om alle vier de woorden op te lossen. Elke dag is er een nieuwe Quordle beschikbaar om op te lossen.
 
-Play at [nl.quordle.com](https://nl.quordle.com)
+Speel op [nl.quordle.com](https://nl.quordle.com)
